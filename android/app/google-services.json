@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305850456819",
+    "project_id": "cable-admin-lite",
+    "storage_bucket": "cable-admin-lite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305850456819:android:837d0e659bff1e2df53586",
+        "android_client_info": {
+          "package_name": "com.example.cable_operator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6uN8U-NBc5aUbcjgiGMV7X10ViYAqZo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
