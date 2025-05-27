@@ -24,6 +24,20 @@ A modern Flutter application for cable operators to manage their customers, subs
   - Dark/Light theme support
   - Responsive layout
 
+## Download ⬇️
+
+You can download the latest version of the Cable Operator App directly from our GitHub releases:
+
+[![Download APK](https://img.shields.io/github/v/release/ChittalaUday/cable_operator_app?label=Download%20Latest%20APK&logo=android)](https://github.com/ChittalaUday/cable_operator_app/releases/download/v1.0.0/app-release.apk)
+
+### Installation Instructions
+1. Download the APK file using the button above
+2. On your Android device, locate the downloaded APK file
+3. Tap the APK file to start installation
+4. If prompted, enable "Install from Unknown Sources" in your device settings
+5. Follow the installation prompts
+6. Once installed, open the app and start managing your cable operations!
+
 ## Tech Stack 💻
 
 - Flutter
